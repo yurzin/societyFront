@@ -1,0 +1,38 @@
+.vakancy-page-block {
+    padding: 16px 12px 8px 20px;
+    border: 1px solid #B8D1DE;
+    border-radius: 4px;
+}
+
+.company-list-search__block {
+    padding: 16px 10px 8px 10px;
+}
+
+.company-list-search__block-left {
+    display: flex;
+    min-width: 110px;
+    flex-direction: column;
+    align-items: center;
+    margin-right: 32px;
+    float: left;
+}
+
+.resume-list__block-img {
+    width: 152px;
+    height: 152px;
+    object-fit: contain;
+    border-radius: 4px;
+    overflow: hidden;
+}
+
+.resume-list__block-img img {
+    width: 100%;
+}
+
+.company-list-search__block-right {
+    padding-left: 120px;
+}
+
+.mb16 {
+    margin-bottom: 16px !important;
+}
